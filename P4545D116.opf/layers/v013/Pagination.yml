@@ -21,70 +21,70 @@ annotations:
     reference: ''
     span:
       start: 2136
-      end: 3497
+      end: 3496
     note_ref: 6bc9ffef547340189683bd09923507a5
   aefd1728bb284b3f9dd9075a1b20d1c4:
     imgnum: 410
     reference: ''
     span:
-      start: 3499
-      end: 4853
+      start: 3498
+      end: 4852
     note_ref: 6bc9ffef547340189683bd09923507a5
   d2de2f9685284e37807cee2c69969f12:
     imgnum: 411
     reference: ''
     span:
-      start: 4855
-      end: 6266
+      start: 4854
+      end: 6265
     note_ref: 6bc9ffef547340189683bd09923507a5
   c25d82901d004cf6983eb5dc8370238b:
     imgnum: 412
     reference: ''
     span:
-      start: 6268
-      end: 7795
+      start: 6267
+      end: 7794
     note_ref: 6bc9ffef547340189683bd09923507a5
   6e74d49c2cce4587b0f1fff62f8de235:
     imgnum: 413
     reference: ''
     span:
-      start: 7797
-      end: 9157
+      start: 7796
+      end: 9156
     note_ref: 6bc9ffef547340189683bd09923507a5
   c3277732e93347c686d5144cd13c5546:
     imgnum: 414
     reference: ''
     span:
-      start: 9159
-      end: 10526
+      start: 9158
+      end: 10525
     note_ref: 5ede0c5914714a299d8c31a1324e8854
   891f4decabae44f8a19a2a0b33ed1e0c:
     imgnum: 415
     reference: ''
     span:
-      start: 10528
-      end: 11934
+      start: 10527
+      end: 11933
     note_ref: 5ede0c5914714a299d8c31a1324e8854
   5d3dbd4b6c0f4686b008a38d8d822381:
     imgnum: 416
     reference: ''
     span:
-      start: 11936
-      end: 13308
+      start: 11935
+      end: 13307
     note_ref: 5ede0c5914714a299d8c31a1324e8854
   6bc9ffef547340189683bd09923507a5:
     imgnum: 417
     reference: ''
     span:
-      start: 13310
-      end: 14888
+      start: 13309
+      end: 14887
     note_ref: 5ede0c5914714a299d8c31a1324e8854
   5ede0c5914714a299d8c31a1324e8854:
     imgnum: 418
     reference: ''
     span:
-      start: 14890
-      end: 15907
+      start: 14889
+      end: 15906
 local_ids:
   831f3f6a3c4e42fe8581ca5b92c2b1aa: 200000
   66b1cff17d014b75b9d8171ffc26b737: 200001
