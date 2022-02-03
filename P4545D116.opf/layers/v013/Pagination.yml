@@ -63,28 +63,28 @@ annotations:
     reference: ''
     span:
       start: 10483
-      end: 11889
+      end: 11893
     note_ref: 5ede0c5914714a299d8c31a1324e8854
   5d3dbd4b6c0f4686b008a38d8d822381:
     imgnum: 416
     reference: ''
     span:
-      start: 11891
-      end: 13263
+      start: 11895
+      end: 13267
     note_ref: 5ede0c5914714a299d8c31a1324e8854
   6bc9ffef547340189683bd09923507a5:
     imgnum: 417
     reference: ''
     span:
-      start: 13265
-      end: 14843
+      start: 13269
+      end: 14847
     note_ref: 5ede0c5914714a299d8c31a1324e8854
   5ede0c5914714a299d8c31a1324e8854:
     imgnum: 418
     reference: ''
     span:
-      start: 14845
-      end: 15862
+      start: 14849
+      end: 15866
 local_ids:
   831f3f6a3c4e42fe8581ca5b92c2b1aa: 200000
   66b1cff17d014b75b9d8171ffc26b737: 200001
